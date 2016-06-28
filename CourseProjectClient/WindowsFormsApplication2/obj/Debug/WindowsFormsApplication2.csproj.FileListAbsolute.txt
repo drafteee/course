@@ -1,0 +1,12 @@
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Универ\4 семестр\КСИС\transport picture\server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

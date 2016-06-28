@@ -1,0 +1,20 @@
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginForm.resources
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\CourseProjectClient.MainForm.resources
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Универ\4 семестр\КСИС\Курсач\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginForm.resources
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\obj\Debug\CourseProjectClient.MainForm.resources
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Сергей\Desktop\CourseProjectClient\WindowsFormsApplication2\obj\Debug\ClientForm.csproj.GenerateResource.Cache
